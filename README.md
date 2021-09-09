@@ -6,5 +6,5 @@ wow-groundingtracker
 
 1.1 - Fixed Frost Bomb not registering
 
-![alt tag](http://s.cdn.wowinterface.com/preview/pvw58440.png)
-![alt tag](http://s.cdn.wowinterface.com/preview/pvw58441.png)
+![screenshot](https://cdn-wow.mmoui.com/preview/pvw58440.png)
+![screenshot](https://cdn-wow.mmoui.com/preview/pvw58441.png)
